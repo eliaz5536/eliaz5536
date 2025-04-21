@@ -1,5 +1,6 @@
 # Eliaz Simon
 🎓 MSc Advanced Computer Science 
+
 📖 Theoretical background in Artificial Intelligence, Deep Learning, Cryptography, Cybersecurity and Game Development
 
 ## ⚙️ Technical Skills
@@ -30,6 +31,7 @@
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Hobbies & Interests
 🎸 Acoustic/Electric Guitar 
