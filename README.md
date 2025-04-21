@@ -1,6 +1,5 @@
 # Eliaz Simon
 🎓 MSc Advanced Computer Science 
-
 📖 Theoretical background in Artificial Intelligence, Deep Learning, Cryptography, Cybersecurity and Game Development
 
 ## ⚙️ Technical Skills
