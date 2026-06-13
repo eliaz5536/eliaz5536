@@ -1,5 +1,4 @@
 # Eliaz Simon
-Maths & Statistics Tutor | University of Kent: International College
 
 ## ⚙️ Technical Skills
 ### Languages
