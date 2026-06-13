@@ -1,7 +1,5 @@
 # Eliaz Simon
-🎓 MSc Advanced Computer Science 
-
-📖 Theoretical background in Artificial Intelligence, Deep Learning, Cryptography, Cybersecurity and Game Development
+Maths & Statistics Tutor | University of Kent: International College
 
 ## ⚙️ Technical Skills
 ### Languages
