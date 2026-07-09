@@ -1,9 +1,5 @@
-# Eliaz Simon
+<h1 align="center"> Eliaz Simon </h1>
 
-## Hobbies & Interests
-🎸 Acoustic/Electric Guitar 
-
-## Connect
-<a href="https://www.linkedin.com/in/eliaz-simon/">
+<a href="https://www.linkedin.com/in/eliaz-simon/" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
