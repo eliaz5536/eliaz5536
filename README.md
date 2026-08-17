@@ -5,7 +5,7 @@
 <h2>Repositories</h2>
 <h3>In Development</h3>
 
-<h4>QuantRF</h4>
+<a href="https://github.com/eliaz5536/quantrf"><h4>QuantRF</h4></a>
 Interactive open-source quantitative finance platform for exploring financial models, analysing market data, and visualizations of option pricing and risk analysis using Streamlit.
 
 <h4>Axiom++</h4>
