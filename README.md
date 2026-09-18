@@ -5,14 +5,14 @@
 <h2>Repositories</h2>
 <h3>🚧 Work in Progress 🚧 </h3>
 
-#### [QuantRF](https://github.com/eliaz5536/quantrf)
-Interactive open-source quantitative finance platform for exploring financial models, analysing market data, and visualizations of option pricing and risk analysis using Streamlit.
-
 #### [Axiom++](https://github.com/eliaz5536/axiompp)
 Mathematical programming library and framework designed to bridge the gap between abstract mathematics and practical software engineering.
 
 ---
 <h3>✅ Complete ✅</h3>
+
+#### [QuantRF](https://github.com/eliaz5536/quantrf)
+Interactive open-source quantitative finance platform for exploring financial models, analysing market data, and visualizations of option pricing and risk analysis using Streamlit.
 
 #### [LFSInstaller](https://github.com/eliaz5536/LFSInstaller)
 Linux From Scratch Script Template Installer
